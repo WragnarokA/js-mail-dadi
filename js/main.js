@@ -1,0 +1,1 @@
+let mailAutoreizzate = ["luis@gmail.com", "guille@gmail.com", "jenny@gmail.com"]
